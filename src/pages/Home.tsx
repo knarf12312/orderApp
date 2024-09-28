@@ -6,7 +6,7 @@ const Home: React.FC = () => {
     <IonPage>
       <IonHeader collapse='fade'>
         <IonToolbar>
-          <IonTitle>Blank</IonTitle>
+          <IonTitle>Frank</IonTitle>
         </IonToolbar>
       </IonHeader>
       <IonContent fullscreen >
